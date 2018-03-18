@@ -9,7 +9,7 @@ comments: true
 
 <div class="imageblock" style="text-align: center">
 <div class="content">
-<img src="../../../images/gradle.png" alt="Gradle" width="100">
+<img src="https://howtoprogram.xyz/wp-content/uploads/2016/09/gradle-logo.jpg" alt="Gradle" width="100">
 </div>
 </div>
 <div class="paragraph">
