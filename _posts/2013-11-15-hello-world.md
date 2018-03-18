@@ -5,7 +5,7 @@ categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: false
 comments: false
-short-info: <img src="https://howtoprogram.xyz/wp-content/uploads/2016/09/gradle-logo.jpg" alt="Gradle" width="100"> 
+shortinfo: <img src="https://howtoprogram.xyz/wp-content/uploads/2016/09/gradle-logo.jpg" alt="Gradle" width="100"> 
 ---
 
 <div class="imageblock" style="text-align: center">
