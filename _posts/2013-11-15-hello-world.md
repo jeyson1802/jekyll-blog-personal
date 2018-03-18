@@ -3,8 +3,8 @@ layout: post
 title: Hello Posita!
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
-fullview: true
-comments: true
+fullview: false
+comments: false
 ---
 
 <div class="imageblock" style="text-align: center">
