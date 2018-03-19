@@ -1,13 +1,13 @@
 # General Settings
-name: Steve Austin
-job_title: UI/UX Engineer
-email: youremail@gmail.com
-description: I build great products at Google, currently Google Maps. I also enjoy capturing moments with my camera and discovering new music. Follow me Twitter or drop me a line.
-avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
+name: Jeyson Ventura
+job_title: Software Engineer / DevOps
+email: jeysonv.sis@gmail.com
+description: Apasionado por el desarrollo de software, el código limpio; así como las herramientad de CD/CI.
+#avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
 favicon: /favicon.ico
-twitter_handler: your_handler
-analytics_code: UA-XXXXXXX-2
-disqus: your_disqus_site
+twitter_handler: JeysonVenturaA
+analytics_code: UA-115967579-1
+disqus: jeyson-ventura-blog
 
 # Social Accounts
 social_networks:
@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "http://jeysonventura.com"
 baseurl: ""
 
 # Includes
