@@ -22,9 +22,6 @@
                 {% if p.layout == 'page' %}
                     <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a>
                 {% endif %}
-                {% if p.layout == 'category_index' %}
-                    <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a>
-                {% endif %}
             {% endfor %}
         </div>
         {% endif %}
