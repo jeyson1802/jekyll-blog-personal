@@ -8,4 +8,4 @@ tags:
 - libre
 ---
 
-Después de tanto tiempo puedo cumplir uno de mis objectivos, tener mi propio blog, les doy las bienvenidas a un lugar donde encontraremos temas de desarrollo, nuevas tendencias, frameworks y mucho más. No se pierdan los nuevos posts donde hablaremos de lo que se viene y de lo que mas suena en nuestro increible campo de desarrollo e infraestructura de sistema.
+Después de tanto tiempo puedo cumplir uno de mis objetivos, tener mi propio blog, les doy la bienvenida a un lugar donde encontraremos temas de desarrollo, tendencias, frameworks y mucho más. No se pierdan los nuevos posts donde hablaremos de lo que se viene y de lo que más suena en nuestro impresionante campo de desarrollo e infraestructura de sistemas.
