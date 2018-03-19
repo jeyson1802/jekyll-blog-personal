@@ -60,4 +60,20 @@ jQuery(document).ready( function() {
         steveSidebar.toggleClass('active');
         jQuery('.wrapper').toggleClass('active');
     });
+
+    function activateTab() {
+      if(['/tags/', '/categories/'].indexOf(window.location.pathname) > -1) {
+        var hash = window.location.hash;
+        if(hash)
+          $('.tab-pane').length && $('a[href="' + hash + '"]').tab('show');
+        else
+          $('.tab-pane').length && $($('.cat-tag-menu li a')[0]).tab('show');
+      }
+    }
+
+    // watch hash change and activate relevant tab
+    $(window).on('hashchange', activateTab);
+
+    // initial activation
+    activateTab();
 });
