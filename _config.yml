@@ -11,13 +11,13 @@ disqus: jeyson-ventura-blog
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
+-  { name: facebook, url: 'https://facebook.com/jeysonventura' }
+-  { name: twitter, url: 'https://twitter.com/JeysonVenturaA' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/jeyson-ventura-aguilar-057b8567/' }
 -  { name: skype, url: '' }
--  { name: github, url: '' }
+-  { name: github, url: 'https://github.com/jeyson1802/' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
